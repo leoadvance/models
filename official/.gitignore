@@ -1,0 +1,6 @@
+*.pyc
+env/
+cnn/data
+MNIST-data
+labels.txt
+*.ipynb
